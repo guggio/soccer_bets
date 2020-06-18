@@ -1,0 +1,307 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,B365H,B365D,B365A
+24.08.18,Bayern Munich,Hoffenheim,3,1,H,1.2,7.5,12
+25.08.18,Fortuna Dusseldorf,Augsburg,1,2,A,2.37,3.25,3
+25.08.18,Freiburg,Ein Frankfurt,0,2,A,2.3,3.3,3.25
+25.08.18,Hertha,Nurnberg,1,0,H,2.04,3.4,3.75
+25.08.18,M'gladbach,Leverkusen,2,0,H,2.8,3.5,2.45
+25.08.18,Werder Bremen,Hannover,1,1,D,1.85,3.6,4
+25.08.18,Wolfsburg,Schalke 04,2,1,H,3.1,3.3,2.37
+26.08.18,Dortmund,RB Leipzig,4,1,H,1.72,3.8,4.75
+26.08.18,Mainz,Stuttgart,1,0,H,2.7,3.25,2.7
+31.08.18,Hannover,Dortmund,0,0,D,5.5,4.33,1.57
+01.09.18,Augsburg,M'gladbach,1,1,D,2.62,3.4,2.7
+01.09.18,Ein Frankfurt,Werder Bremen,1,2,A,2.4,3.5,2.9
+01.09.18,Hoffenheim,Freiburg,3,1,H,1.55,4,6.5
+01.09.18,Leverkusen,Wolfsburg,1,3,A,1.61,4.33,5
+01.09.18,Nurnberg,Mainz,1,1,D,2.37,3.3,3.1
+01.09.18,Stuttgart,Bayern Munich,0,3,A,11,5.5,1.28
+02.09.18,RB Leipzig,Fortuna Dusseldorf,1,1,D,1.4,4.75,8
+02.09.18,Schalke 04,Hertha,0,2,A,1.75,3.6,5
+14.09.18,Dortmund,Ein Frankfurt,3,1,H,1.4,5,7.5
+15.09.18,Bayern Munich,Leverkusen,3,1,H,1.2,7,13
+15.09.18,Fortuna Dusseldorf,Hoffenheim,2,1,H,4,3.6,1.9
+15.09.18,Mainz,Augsburg,2,1,H,2.54,3.25,2.87
+15.09.18,M'gladbach,Schalke 04,2,1,H,2.37,3.4,3
+15.09.18,RB Leipzig,Hannover,3,2,H,1.53,4.33,5.5
+15.09.18,Wolfsburg,Hertha,2,2,D,2.1,3.25,3.75
+16.09.18,Freiburg,Stuttgart,3,3,D,2.62,3.25,2.75
+16.09.18,Werder Bremen,Nurnberg,1,1,D,1.66,4,5
+21.09.18,Stuttgart,Fortuna Dusseldorf,0,0,D,1.72,3.6,5.25
+22.09.18,Augsburg,Werder Bremen,2,3,A,2.5,3.25,2.9
+22.09.18,Hertha,M'gladbach,4,2,H,2.37,3.3,3.1
+22.09.18,Hoffenheim,Dortmund,1,1,D,2.62,3.75,2.4
+22.09.18,Nurnberg,Hannover,2,0,H,2.5,3.25,2.9
+22.09.18,Schalke 04,Bayern Munich,0,2,A,8,4.5,1.4
+22.09.18,Wolfsburg,Freiburg,1,3,A,1.72,3.6,5.25
+23.09.18,Ein Frankfurt,RB Leipzig,1,1,D,2.9,3.4,2.35
+23.09.18,Leverkusen,Mainz,1,0,H,1.57,4.33,5.5
+25.09.18,Bayern Munich,Augsburg,1,1,D,1.1,10,23
+25.09.18,Freiburg,Schalke 04,1,0,H,3.5,3.2,2.14
+25.09.18,Hannover,Hoffenheim,1,3,A,3.5,3.6,2.04
+25.09.18,Werder Bremen,Hertha,3,1,H,2,3.5,3.8
+26.09.18,Dortmund,Nurnberg,7,0,H,1.3,5.5,10
+26.09.18,Fortuna Dusseldorf,Leverkusen,1,2,A,3.75,3.75,1.95
+26.09.18,Mainz,Wolfsburg,0,0,D,2.6,3.25,2.8
+26.09.18,M'gladbach,Ein Frankfurt,3,1,H,1.75,3.8,4.75
+26.09.18,RB Leipzig,Stuttgart,2,0,H,1.72,3.8,4.75
+28.09.18,Hertha,Bayern Munich,2,0,H,10,5.75,1.28
+29.09.18,Hoffenheim,RB Leipzig,1,2,A,2.04,3.75,3.4
+29.09.18,Leverkusen,Dortmund,2,4,A,2.8,3.5,2.4
+29.09.18,Nurnberg,Fortuna Dusseldorf,3,0,H,2.14,3.4,3.4
+29.09.18,Schalke 04,Mainz,1,0,H,1.64,3.75,5.5
+29.09.18,Stuttgart,Werder Bremen,2,1,H,2.7,3.25,2.7
+29.09.18,Wolfsburg,M'gladbach,2,2,D,2.3,3.4,3.1
+30.09.18,Augsburg,Freiburg,4,1,H,1.9,3.4,4.33
+30.09.18,Ein Frankfurt,Hannover,4,1,H,1.9,3.6,4
+05.10.18,Werder Bremen,Wolfsburg,2,0,H,1.95,3.5,4
+06.10.18,Bayern Munich,M'gladbach,0,3,A,1.2,7,13
+06.10.18,Dortmund,Augsburg,4,3,H,1.44,4.75,7
+06.10.18,Fortuna Dusseldorf,Schalke 04,0,2,A,3.6,3.4,2.1
+06.10.18,Hannover,Stuttgart,3,1,H,2.5,3.3,2.87
+06.10.18,Mainz,Hertha,0,0,D,2.7,3.2,2.7
+07.10.18,Freiburg,Leverkusen,0,0,D,3.4,3.4,2.14
+07.10.18,Hoffenheim,Ein Frankfurt,1,2,A,1.72,3.8,4.75
+07.10.18,RB Leipzig,Nurnberg,6,0,H,1.44,4.75,7
+19.10.18,Ein Frankfurt,Fortuna Dusseldorf,7,1,H,1.61,3.8,5.75
+20.10.18,Augsburg,RB Leipzig,0,0,D,3,3.5,2.3
+20.10.18,Leverkusen,Hannover,2,2,D,1.5,4.33,6.5
+20.10.18,Nurnberg,Hoffenheim,1,3,A,3.75,3.8,1.9
+20.10.18,Schalke 04,Werder Bremen,0,2,A,2.04,3.4,3.75
+20.10.18,Stuttgart,Dortmund,0,4,A,4.2,3.75,1.83
+20.10.18,Wolfsburg,Bayern Munich,1,3,A,8.5,5,1.36
+21.10.18,Hertha,Freiburg,1,1,D,1.85,3.6,4.33
+21.10.18,M'gladbach,Mainz,4,0,H,1.61,4.33,5
+26.10.18,Freiburg,M'gladbach,3,1,H,3.5,3.6,2
+27.10.18,Dortmund,Hertha,2,2,D,1.4,4.75,8
+27.10.18,Fortuna Dusseldorf,Wolfsburg,0,3,A,3,3.4,2.37
+27.10.18,Hannover,Augsburg,1,2,A,2.6,3.3,2.75
+27.10.18,Hoffenheim,Stuttgart,4,0,H,1.57,4.33,5.5
+27.10.18,Mainz,Bayern Munich,1,2,A,11,6.5,1.25
+28.10.18,Nurnberg,Ein Frankfurt,1,1,D,3.3,3.5,2.14
+28.10.18,RB Leipzig,Schalke 04,0,0,D,1.75,3.6,4.75
+28.10.18,Werder Bremen,Leverkusen,2,6,A,2.3,3.4,3.1
+02.11.18,Stuttgart,Ein Frankfurt,0,3,A,3,3.5,2.3
+03.11.18,Augsburg,Nurnberg,2,2,D,1.6,3.8,6
+03.11.18,Bayern Munich,Freiburg,1,1,D,1.11,10,21
+03.11.18,Hertha,RB Leipzig,0,3,A,3.2,3.4,2.25
+03.11.18,Leverkusen,Hoffenheim,1,4,A,2.1,4,3.1
+03.11.18,Schalke 04,Hannover,3,1,H,1.61,3.8,6
+03.11.18,Wolfsburg,Dortmund,0,1,A,3.8,3.8,1.9
+04.11.18,Mainz,Werder Bremen,2,1,H,3,3.4,2.37
+04.11.18,M'gladbach,Fortuna Dusseldorf,3,0,H,1.36,4.75,8
+09.11.18,Hannover,Wolfsburg,2,1,H,2.9,3.3,2.37
+10.11.18,Dortmund,Bayern Munich,3,2,H,3.1,3.8,2.1
+10.11.18,Fortuna Dusseldorf,Hertha,4,1,H,3.6,3.4,2.1
+10.11.18,Freiburg,Mainz,1,3,A,2,3.4,3.75
+10.11.18,Hoffenheim,Augsburg,2,1,H,1.61,4.33,5
+10.11.18,Nurnberg,Stuttgart,0,2,A,2.4,3.25,3.1
+10.11.18,Werder Bremen,M'gladbach,1,3,A,2.4,3.5,2.75
+11.11.18,Ein Frankfurt,Schalke 04,3,0,H,2.2,3.3,3.4
+11.11.18,RB Leipzig,Leverkusen,3,0,H,1.8,4,4
+23.11.18,Leverkusen,Stuttgart,2,0,H,1.5,4.5,6
+24.11.18,Augsburg,Ein Frankfurt,1,3,A,2.62,3.5,2.62
+24.11.18,Bayern Munich,Fortuna Dusseldorf,3,3,D,1.08,11,26
+24.11.18,Hertha,Hoffenheim,3,3,D,3.4,3.75,2.04
+24.11.18,Mainz,Dortmund,1,2,A,5.5,4,1.6
+24.11.18,Schalke 04,Nurnberg,5,2,H,1.53,4,7
+24.11.18,Wolfsburg,RB Leipzig,1,0,H,3.5,3.5,2.1
+25.11.18,Freiburg,Werder Bremen,1,1,D,2.87,3.3,2.5
+25.11.18,M'gladbach,Hannover,4,1,H,1.44,4.5,7
+30.11.18,Fortuna Dusseldorf,Mainz,0,1,A,2.7,3.3,2.6
+01.12.18,Dortmund,Freiburg,2,0,H,1.28,5.5,11
+01.12.18,Hannover,Hertha,0,2,A,2.7,3.4,2.6
+01.12.18,Hoffenheim,Schalke 04,1,1,D,1.8,3.8,4.33
+01.12.18,Stuttgart,Augsburg,1,0,H,2.6,3.3,2.75
+01.12.18,Werder Bremen,Bayern Munich,1,2,A,7,5.25,1.4
+02.12.18,Ein Frankfurt,Wolfsburg,1,2,A,1.8,4,4.1
+02.12.18,RB Leipzig,M'gladbach,2,0,H,1.9,3.75,3.75
+03.12.18,Nurnberg,Leverkusen,1,1,D,4.2,4,1.8
+07.12.18,Werder Bremen,Fortuna Dusseldorf,3,1,H,1.72,4,4.5
+08.12.18,Bayern Munich,Nurnberg,3,0,H,1.08,11,34
+08.12.18,Freiburg,RB Leipzig,3,0,H,4,4,1.83
+08.12.18,Hertha,Ein Frankfurt,1,0,H,2.45,3.3,2.9
+08.12.18,Leverkusen,Augsburg,1,0,H,1.66,4,5
+08.12.18,Schalke 04,Dortmund,1,2,A,3.3,3.4,2.2
+08.12.18,Wolfsburg,Hoffenheim,2,2,D,3,3.6,2.3
+09.12.18,Mainz,Hannover,1,1,D,1.9,3.6,4
+09.12.18,M'gladbach,Stuttgart,3,0,H,1.44,4.33,7
+14.12.18,Nurnberg,Wolfsburg,0,2,A,3.6,3.5,2.04
+15.12.18,Augsburg,Schalke 04,1,1,D,2.5,3.25,2.9
+15.12.18,Dortmund,Werder Bremen,2,1,H,1.36,5.25,8
+15.12.18,Fortuna Dusseldorf,Freiburg,2,0,H,2.75,3.3,2.6
+15.12.18,Hannover,Bayern Munich,0,4,A,11,7,1.22
+15.12.18,Hoffenheim,M'gladbach,0,0,D,1.9,4,3.6
+15.12.18,Stuttgart,Hertha,2,1,H,2.7,3.4,2.62
+16.12.18,Ein Frankfurt,Leverkusen,2,1,H,2.4,3.5,2.87
+16.12.18,RB Leipzig,Mainz,4,1,H,1.4,4.75,7.5
+18.12.18,Fortuna Dusseldorf,Dortmund,2,1,H,7,4.5,1.44
+18.12.18,Hertha,Augsburg,2,2,D,2.3,3.4,3.1
+18.12.18,M'gladbach,Nurnberg,2,0,H,1.36,5.5,7
+18.12.18,Wolfsburg,Stuttgart,2,0,H,1.66,3.75,5.5
+19.12.18,Bayern Munich,RB Leipzig,1,0,H,1.36,5.25,8
+19.12.18,Freiburg,Hannover,1,1,D,1.85,3.6,4
+19.12.18,Mainz,Ein Frankfurt,2,2,D,3.2,3.5,2.2
+19.12.18,Schalke 04,Leverkusen,1,2,A,2.4,3.5,2.9
+19.12.18,Werder Bremen,Hoffenheim,1,1,D,3.1,4.2,2.04
+21.12.18,Dortmund,M'gladbach,2,1,H,1.5,4.5,5.75
+22.12.18,Ein Frankfurt,Bayern Munich,0,3,A,5.75,4.75,1.5
+22.12.18,Hannover,Fortuna Dusseldorf,0,1,A,2.2,3.4,3.3
+22.12.18,Leverkusen,Hertha,3,1,H,1.72,4,4.5
+22.12.18,Nurnberg,Freiburg,0,1,A,2.62,3.3,2.7
+22.12.18,RB Leipzig,Werder Bremen,3,2,H,1.44,4.5,7
+22.12.18,Stuttgart,Schalke 04,1,3,A,3.2,3.3,2.3
+23.12.18,Augsburg,Wolfsburg,2,3,A,2.6,3.3,2.75
+23.12.18,Hoffenheim,Mainz,1,1,D,1.44,4.5,6.5
+18.01.19,Hoffenheim,Bayern Munich,1,3,A,6,5,1.44
+19.01.19,Augsburg,Fortuna Dusseldorf,1,2,A,1.9,3.6,4
+19.01.19,Ein Frankfurt,Freiburg,3,1,H,1.65,4,5.25
+19.01.19,Hannover,Werder Bremen,0,1,A,3.25,3.6,2.15
+19.01.19,Leverkusen,M'gladbach,0,1,A,2,3.7,3.6
+19.01.19,RB Leipzig,Dortmund,0,1,A,2.5,3.5,2.75
+19.01.19,Stuttgart,Mainz,2,3,A,2.4,3.3,2.9
+20.01.19,Nurnberg,Hertha,1,3,A,3.5,3.4,2.1
+20.01.19,Schalke 04,Wolfsburg,2,1,H,2.2,3.3,3.4
+25.01.19,Hertha,Schalke 04,2,2,D,2.5,3.25,2.87
+26.01.19,Dortmund,Hannover,5,1,H,1.16,7.5,15
+26.01.19,Freiburg,Hoffenheim,2,4,A,3.5,4,1.95
+26.01.19,Mainz,Nurnberg,2,1,H,1.66,3.8,5.25
+26.01.19,M'gladbach,Augsburg,2,0,H,1.66,4,5
+26.01.19,Werder Bremen,Ein Frankfurt,2,2,D,2.55,3.5,2.7
+26.01.19,Wolfsburg,Leverkusen,0,3,A,2.62,3.5,2.6
+27.01.19,Bayern Munich,Stuttgart,4,1,H,1.08,13,21
+27.01.19,Fortuna Dusseldorf,RB Leipzig,0,4,A,4,3.6,1.9
+01.02.19,Hannover,RB Leipzig,0,3,A,5.5,4.33,1.53
+02.02.19,Ein Frankfurt,Dortmund,1,1,D,3.3,3.6,2.15
+02.02.19,Hertha,Wolfsburg,0,1,A,2.3,3.3,3.25
+02.02.19,Hoffenheim,Fortuna Dusseldorf,1,1,D,1.44,4.5,6.5
+02.02.19,Leverkusen,Bayern Munich,3,1,H,5.5,4.5,1.55
+02.02.19,Nurnberg,Werder Bremen,1,1,D,3.75,3.6,2
+02.02.19,Schalke 04,M'gladbach,0,2,A,2.4,3.4,3
+03.02.19,Augsburg,Mainz,3,0,H,2.1,3.5,3.4
+03.02.19,Stuttgart,Freiburg,2,2,D,2.15,3.4,3.4
+08.02.19,Mainz,Leverkusen,1,5,A,3.8,3.8,1.9
+09.02.19,Bayern Munich,Schalke 04,3,1,H,1.2,7,13
+09.02.19,Dortmund,Hoffenheim,3,3,D,1.66,4.2,4.75
+09.02.19,Freiburg,Wolfsburg,3,3,D,2.87,3.4,2.45
+09.02.19,Hannover,Nurnberg,2,0,H,2.2,3.4,3.25
+09.02.19,M'gladbach,Hertha,0,3,A,1.57,4.2,5.5
+09.02.19,RB Leipzig,Ein Frankfurt,0,0,D,1.83,4,4
+10.02.19,Fortuna Dusseldorf,Stuttgart,3,0,H,2.1,3.5,3.5
+10.02.19,Werder Bremen,Augsburg,4,0,H,1.72,3.8,4.5
+15.02.19,Augsburg,Bayern Munich,2,3,A,15,6,1.2
+16.02.19,Hertha,Werder Bremen,1,1,D,2.4,3.5,2.9
+16.02.19,Hoffenheim,Hannover,3,0,H,1.3,6,8.5
+16.02.19,Schalke 04,Freiburg,0,0,D,1.7,3.75,5.25
+16.02.19,Stuttgart,RB Leipzig,1,3,A,5.25,4,1.65
+16.02.19,Wolfsburg,Mainz,3,0,H,1.72,4,4.5
+17.02.19,Ein Frankfurt,M'gladbach,1,1,D,2.3,3.6,3
+17.02.19,Leverkusen,Fortuna Dusseldorf,2,0,H,1.44,4.75,6.5
+18.02.19,Nurnberg,Dortmund,0,0,D,7.5,5,1.4
+22.02.19,Werder Bremen,Stuttgart,1,1,D,1.53,4.33,5.75
+23.02.19,Bayern Munich,Hertha,1,0,H,1.18,7,17
+23.02.19,Fortuna Dusseldorf,Nurnberg,2,1,H,1.72,3.75,5
+23.02.19,Freiburg,Augsburg,5,1,H,2.15,3.5,3.3
+23.02.19,Mainz,Schalke 04,3,0,H,2.8,3.4,2.5
+23.02.19,M'gladbach,Wolfsburg,0,3,A,1.75,3.8,4.75
+24.02.19,Dortmund,Leverkusen,3,2,H,1.8,4.2,4
+24.02.19,Hannover,Ein Frankfurt,0,3,A,4.75,3.75,1.75
+25.02.19,RB Leipzig,Hoffenheim,1,1,D,1.8,4,4
+01.03.19,Augsburg,Dortmund,2,1,H,5.75,4.5,1.53
+02.03.19,Ein Frankfurt,Hoffenheim,3,2,H,2.37,3.75,2.8
+02.03.19,Hertha,Mainz,2,1,H,1.85,3.6,4.33
+02.03.19,Leverkusen,Freiburg,2,0,H,1.44,4.5,7.5
+02.03.19,M'gladbach,Bayern Munich,1,5,A,5.5,4.5,1.57
+02.03.19,Nurnberg,RB Leipzig,0,1,A,6.5,4.33,1.5
+02.03.19,Schalke 04,Fortuna Dusseldorf,0,4,A,1.83,3.75,4.2
+03.03.19,Stuttgart,Hannover,5,1,H,1.72,4,4.5
+03.03.19,Wolfsburg,Werder Bremen,1,1,D,2.15,3.5,3.3
+08.03.19,Werder Bremen,Schalke 04,4,2,H,2.05,3.5,3.6
+09.03.19,Bayern Munich,Wolfsburg,6,0,H,1.25,6.5,10
+09.03.19,Dortmund,Stuttgart,3,1,H,1.28,5.5,11
+09.03.19,Freiburg,Hertha,2,1,H,2.55,3.25,2.87
+09.03.19,Mainz,M'gladbach,0,1,A,3.3,3.4,2.2
+09.03.19,RB Leipzig,Augsburg,0,0,D,1.36,5,8.5
+10.03.19,Hannover,Leverkusen,2,3,A,8.5,5.75,1.3
+10.03.19,Hoffenheim,Nurnberg,2,1,H,1.25,5.75,12
+11.03.19,Fortuna Dusseldorf,Ein Frankfurt,0,3,A,2.75,3.4,2.55
+15.03.19,M'gladbach,Freiburg,1,1,D,1.53,3.9,6.25
+16.03.19,Augsburg,Hannover,3,1,H,1.61,4.33,5
+16.03.19,Hertha,Dortmund,2,3,A,4.2,3.75,1.85
+16.03.19,Schalke 04,RB Leipzig,0,1,A,3.75,3.6,2
+16.03.19,Stuttgart,Hoffenheim,1,1,D,3.7,4,1.85
+16.03.19,Wolfsburg,Fortuna Dusseldorf,5,2,H,1.75,3.75,4.75
+17.03.19,Bayern Munich,Mainz,6,0,H,1.12,9,17
+17.03.19,Ein Frankfurt,Nurnberg,1,0,H,1.4,5,7.5
+17.03.19,Leverkusen,Werder Bremen,1,3,A,1.6,4.2,5.25
+29.03.19,Hoffenheim,Leverkusen,4,1,H,2.37,3.8,2.7
+30.03.19,Dortmund,Wolfsburg,2,0,H,1.5,4.33,6.5
+30.03.19,Fortuna Dusseldorf,M'gladbach,3,1,H,3,3.5,2.3
+30.03.19,Freiburg,Bayern Munich,1,1,D,12,6.5,1.22
+30.03.19,Nurnberg,Augsburg,3,0,H,2.87,3.3,2.5
+30.03.19,RB Leipzig,Hertha,5,0,H,1.5,4.33,6.5
+30.03.19,Werder Bremen,Mainz,3,1,H,1.61,4.33,5
+31.03.19,Ein Frankfurt,Stuttgart,3,0,H,1.44,5,6.5
+31.03.19,Hannover,Schalke 04,0,1,A,4.5,3.6,1.8
+05.04.19,Mainz,Freiburg,5,0,H,2.2,3.3,3.4
+06.04.19,Bayern Munich,Dortmund,5,0,H,1.53,4.75,5.25
+06.04.19,Hertha,Fortuna Dusseldorf,1,2,A,1.9,3.6,4
+06.04.19,Leverkusen,RB Leipzig,2,4,A,2.3,3.75,2.9
+06.04.19,Schalke 04,Ein Frankfurt,1,2,A,3.3,3.5,2.15
+06.04.19,Stuttgart,Nurnberg,1,1,D,1.8,3.75,4.5
+06.04.19,Wolfsburg,Hannover,3,1,H,1.33,5.5,8.5
+07.04.19,Augsburg,Hoffenheim,0,4,A,3.6,4.33,1.83
+07.04.19,M'gladbach,Werder Bremen,1,1,D,2.05,3.6,3.4
+12.04.19,Nurnberg,Schalke 04,1,1,D,3.4,3.25,2.25
+13.04.19,Dortmund,Mainz,2,1,H,1.3,5.75,9.5
+13.04.19,Hannover,M'gladbach,0,1,A,5.25,4.33,1.6
+13.04.19,RB Leipzig,Wolfsburg,2,0,H,1.57,4.2,5.75
+13.04.19,Stuttgart,Leverkusen,0,1,A,4.2,4.2,1.75
+13.04.19,Werder Bremen,Freiburg,2,1,H,1.6,4,5.75
+14.04.19,Ein Frankfurt,Augsburg,1,3,A,1.45,4.5,6.5
+14.04.19,Fortuna Dusseldorf,Bayern Munich,1,4,A,12,7.5,1.18
+14.04.19,Hoffenheim,Hertha,2,0,H,1.4,5,6.5
+20.04.19,Augsburg,Stuttgart,6,0,H,2.05,3.5,3.6
+20.04.19,Bayern Munich,Werder Bremen,1,0,H,1.14,8,19
+20.04.19,Leverkusen,Nurnberg,2,0,H,1.3,5.75,9.5
+20.04.19,Mainz,Fortuna Dusseldorf,3,1,H,2.1,3.6,3.4
+20.04.19,M'gladbach,RB Leipzig,1,2,A,3,3.75,2.25
+20.04.19,Schalke 04,Hoffenheim,2,5,A,3.6,4,1.9
+21.04.19,Freiburg,Dortmund,0,4,A,6,4.33,1.53
+21.04.19,Hertha,Hannover,0,0,D,1.53,4.33,6
+22.04.19,Wolfsburg,Ein Frankfurt,1,1,D,2.55,3.6,2.55
+26.04.19,Augsburg,Leverkusen,1,4,A,4.5,4.33,1.66
+27.04.19,Dortmund,Schalke 04,2,4,A,1.3,5.5,9
+27.04.19,Ein Frankfurt,Hertha,0,0,D,1.4,4.75,7
+27.04.19,Fortuna Dusseldorf,Werder Bremen,4,1,H,3.2,3.4,2.2
+27.04.19,Hannover,Mainz,1,0,H,3,3.4,2.3
+27.04.19,RB Leipzig,Freiburg,2,1,H,1.25,5.5,12
+27.04.19,Stuttgart,M'gladbach,1,0,H,3.5,3.5,2.05
+28.04.19,Hoffenheim,Wolfsburg,1,4,A,1.45,4.75,6
+28.04.19,Nurnberg,Bayern Munich,1,1,D,15,8,1.14
+03.05.19,Mainz,RB Leipzig,3,3,D,4.5,4.2,1.7
+04.05.19,Bayern Munich,Hannover,3,1,H,1.03,21,34
+04.05.19,Hertha,Stuttgart,3,1,H,2.2,3.6,3.1
+04.05.19,M'gladbach,Hoffenheim,2,2,D,2.7,4,2.3
+04.05.19,Werder Bremen,Dortmund,2,2,D,3.25,3.75,2.05
+04.05.19,Wolfsburg,Nurnberg,2,0,H,1.57,4.33,5.5
+05.05.19,Freiburg,Fortuna Dusseldorf,1,1,D,2.1,3.75,3.2
+05.05.19,Leverkusen,Ein Frankfurt,6,1,H,1.61,4.5,5
+05.05.19,Schalke 04,Augsburg,0,0,D,1.8,3.8,4.33
+11.05.19,Augsburg,Hertha,3,4,A,2.4,3.6,2.8
+11.05.19,Dortmund,Fortuna Dusseldorf,3,2,H,1.3,6,8.5
+11.05.19,Hannover,Freiburg,3,0,H,2.62,3.75,2.5
+11.05.19,Hoffenheim,Werder Bremen,0,1,A,1.44,5.25,6
+11.05.19,Leverkusen,Schalke 04,1,1,D,1.33,5.75,8
+11.05.19,Nurnberg,M'gladbach,0,4,A,3.8,4,1.85
+11.05.19,RB Leipzig,Bayern Munich,0,0,D,5,4,1.66
+11.05.19,Stuttgart,Wolfsburg,3,0,H,3.2,3.5,2.2
+12.05.19,Ein Frankfurt,Mainz,0,2,A,1.6,4.2,5.25
+18.05.19,Bayern Munich,Ein Frankfurt,5,1,H,1.25,6.5,10
+18.05.19,Fortuna Dusseldorf,Hannover,2,1,H,1.55,4.2,6
+18.05.19,Freiburg,Nurnberg,5,1,H,1.75,4,4.33
+18.05.19,Hertha,Leverkusen,1,5,A,7,4.5,1.44
+18.05.19,Mainz,Hoffenheim,4,2,H,4.2,4.75,1.65
+18.05.19,M'gladbach,Dortmund,0,2,A,2.9,4,2.2
+18.05.19,Schalke 04,Stuttgart,0,0,D,1.61,4.2,5.25
+18.05.19,Werder Bremen,RB Leipzig,2,1,H,2.5,4,2.5
+18.05.19,Wolfsburg,Augsburg,8,1,H,1.4,4.75,8
